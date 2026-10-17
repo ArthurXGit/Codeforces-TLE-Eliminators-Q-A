@@ -1,3 +1,11 @@
+/*
+    * Problem : A Game with Integers
+    * Approach : if n is div by 3 -> vova wins
+                 if not -> vanya wins
+
+    * "If 10 moves have passed and Vanya has not won, then Vova wins." just story , nothing to do with question.
+*/
+
 #include <bits/stdc++.h>
 
 using namespace std;
